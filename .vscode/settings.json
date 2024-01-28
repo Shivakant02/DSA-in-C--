@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "*.tcc": "cpp",
+    "stdio.h": "c",
+    "CDLL.C": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "enabled",
+  "problems.showCurrentInStatus": true
+}
